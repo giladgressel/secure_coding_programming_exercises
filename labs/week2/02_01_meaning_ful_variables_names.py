@@ -4,7 +4,7 @@
 
 a = "Amrita "
 b = " Vishwa "
-c = "Vidhyappetham"
+c = "Vidyapeetham"
 
 # rename the above variables
 # Choose appropriate names for variable and print the concatenated result

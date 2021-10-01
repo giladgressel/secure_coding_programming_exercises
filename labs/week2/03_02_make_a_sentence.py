@@ -1,8 +1,8 @@
-#Place a curly bracket "{}" in the appropriate place and fill name, branch, college_name inside .format()'s parenthesis so that 
-# "Hello, name. Welcome to  deptname in collegname" is printed.
+# Create a proper sentence by using f-strings to combine
+# the variables below into a nice sentence.
+# Add your own strings, if necessary, to make it readable.
 
-name =""
-dept = ""
-college_name = ""
-
-
+q1 = "By seeking"
+q2 = "and"
+q3 = "blundering"
+q4 = "we learn."
