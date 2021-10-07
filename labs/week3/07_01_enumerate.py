@@ -8,5 +8,4 @@
 # the sum is: 10
 
 a_long_word = "the quick brown fox jumped over the lazy dog and then ran around and got very happy happy happy yes!"
-# the sum should be 99 (you can check your code with this)
-
+# the sum should be 1147 (you can check your code with this)
