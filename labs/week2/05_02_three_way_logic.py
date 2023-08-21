@@ -1,21 +1,18 @@
-# Logical_operators_4
+# 1) Initialize variable a to true, b to false and c to true
 
-# Initialize variable a to true, b to false and c to true
-a = True
-b = False
-c = True
 
-# Print the value of:
-# what do you think: print(a and b or c)  will return? Why?
+# 2) If you print(a and b or c) what it will return? Why?
 # Does the order of operations matter?
-# is print(a or b and c) different?
 
-# Assign c to false and print the value of a and b or c
-a = True
-b = False
-c = False
+
+# 3) Is print(a or b and c) different?
+
+
+# 4)Assign c to false and print the value of a and b or c
+
 
 # Understand the difference in each scenario
-# what is happening here?
+# What is happening here?
 
-# now try to use some ()'s to force python to evaluate it differently.
+
+# 5) Now try to use some ()'s to force python to evaluate it differently.
