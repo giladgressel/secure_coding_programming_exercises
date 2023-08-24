@@ -20,3 +20,17 @@ For whatever we lose(like a you or a me)
 it's always ourselves we find in the sea"""
 
 # Write your code below here
+
+        #strings are immutable so converting string to list.
+        #will later convert it back to string
+        
+l1= list(poem)
+while "m" in l1:
+    l1[l1.index("m")] = "_"
+
+
+
+updated_poem = ""           #converting back to string. i think there might be a more efficient way though..
+for i in l1:
+    updated_poem+=str(i)
+print(updated_poem)         #printing updated string
