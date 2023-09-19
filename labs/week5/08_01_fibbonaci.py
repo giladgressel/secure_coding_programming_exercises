@@ -11,5 +11,5 @@ def fib(n):
     """
 
 
-# fib(6) should return 5
-# fib(10) should return 34
+# fib(6) should return 8
+# fib(10) should return 55
